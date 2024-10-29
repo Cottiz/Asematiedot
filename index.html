@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juna-aikataulut</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Juna-aikataulut</h1>
+    <div class="container">
+        <!--valitaan asema-->
+        <div class="station-select">
+            <label for="stationSelect">Valitse asema:</label>
+            <select id="stationSelect">
+                <option value="">Valitse asema</option>
+                <option value="HKI">Helsinki</option>
+                <option value="TKU">Turku</option>
+                <option value="TPE">Tampere</option>
+                <option value="JY">Jyväskylä</option>
+                <option value="KUO">Kuopio</option>
+                <option value="OL">Oulu</option>
+                <option value="ROI">Rovaniemi</option>
+                <option value="LR">Lappeenranta</option>
+                <option value="JNS">Joensuu</option>
+                <option value="KOK">Kokkola</option>
+                <option value="VAA">Vaasa</option>
+                <option value="KJÄ">Kemijärvi</option>
+            </select>
+        </div>
+        
+        <!--Aikataulujen listaus-->
+        <div id="scheduleContainer" class="schedule-container">
+            <h2>Aikataulut</h2>
+            <ul id="scheduleList">
+                <!--tähän tulee aikataulutiedot--> 
+                
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
