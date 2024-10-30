@@ -2,7 +2,9 @@
 Junien tiedot asemoittain by Kati
 
 ## Linkki sovellukseen:
-Sovelluksen voi avata tästä linkistä: [Junien tiedot asemoittain](https://cottiz.github.io/Asematiedot/)
+Sovelluksen voi avata tästä linkistä: 
+GitHub: [Junien tiedot asemoittain](https://cottiz.github.io/Asematiedot/)
+Netlify: [Junien tiedot asemoittain](https://flourishing-cupcake-7eaf59.netlify.app/)
 
 ## Työntekeminen
 Käytin projektiin aikaa n.27 tuntia. Työstin projektia itsenäisesti hyödyntäen osittain tekoälyä. 
