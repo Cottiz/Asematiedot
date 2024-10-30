@@ -2,10 +2,10 @@
 Junien tiedot asemoittain by Kati
 
 ## Linkki sovellukseen:
-Sovelluksen voi avata tästä linkistä: [Junien tiedot asemoittain](https://google.com)
+Sovelluksen voi avata tästä linkistä: [Junien tiedot asemoittain](https://cottiz.github.io/Asematiedot/)
 
 ## Työntekeminen
-Käytin projektiin aikaa n.25 tuntia. Työstin projektia itsenäisesti hyödyntäen osittain tekoälyä. 
+Käytin projektiin aikaa n.27 tuntia. Työstin projektia itsenäisesti hyödyntäen osittain tekoälyä. 
 
 
 ## Sisällysluettelo:
@@ -57,4 +57,4 @@ Projektissa käytetyt lähteet ja apuvälineet:
 - [Luettelo suomen rautatieliikennepaikoista](https://fi.wikipedia.org/wiki/Luettelo_Suomen_rautatieliikennepaikoista) - lyhenteiden tarkistamiseen
 
 ## Lisenssi
-MIT lisenssi @ [CottiZ](author.com)
+MIT lisenssi @ [Cottiz]
